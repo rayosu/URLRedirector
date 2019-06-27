@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "fonts.googleapis.com",
+      "origin": "fonts.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "fonts.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "ajax.googleapis.com",
+      "origin": "ajax.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ajax.lug.ustc.edu.cn",
+      "example": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+      "enable": true
+    },
+    {
+      "description": "themes.googleusercontent.com",
+      "origin": "themes.googleusercontent.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "google-themes.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "fonts.gstatic.com",
+      "origin": "fonts.gstatic.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "fonts-gstatic.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true
+    }
+  ]
+}
